@@ -1,22 +1,30 @@
-1. Mecanicas - elemento principal do jogo
-  - Modelo MDA
-  - Dinamica - comportamento do jogador (como ele vai usar a mecanica)
-  - Estética - resposta emocional desejavel do jogador
+1. Mecânicas - elemento principal do jogo
+    - Modelo MDA
+        - Mecânica: regras e ações possíveis no jogo
+        - Dinâmica: comportamento do jogador (como ele vai usar a mecânica)
+        - Estética: resposta emocional desejável do jogador
 
-  - Exemplo amongUs
-    - mecanica - tarefas, votação, impostor
-    - dinamica - cooperação, engano, paranoia
-    - estetica - tensao, diversao, desconfiança
-    - relação direta - o que o designer cria gera a experiencia pretendida
-  - Tipos de mecânica
-    - Mecanica de espaço - posicionamento e movimentação
-    - mecanica de objetos - interações com elementos do cenário e inventario
-    - mecanica de ações - comandos específicos, como correr, pular e atacar
-      
-    - mecanicas fisicas, sociais, narrativas, emocionais
-    - regras: tornam possiveis as mecanicas
+    - Exemplo: *Among Us*
+        - Mecânica: tarefas, votação, impostor
+        - Dinâmica: cooperação, engano, paranoia
+        - Estética: tensão, diversão, desconfiança
+        - Relação direta: o que o designer cria gera a experiência pretendida
+
+    - Tipos de mecânica:
+        - Mecânica de espaço: posicionamento e movimentação
+        - Mecânica de objetos: interações com elementos do cenário e inventário
+        - Mecânica de ações: comandos específicos, como correr, pular e atacar
+        - Mecânicas físicas, sociais, narrativas, emocionais
+
+    - Regras: tornam possíveis as mecânicas
+
 2. Game Design - ponte entre intenção criativa e experiência prática
-  - o design precisa traduzir ideias em sistemas funcionais, mantendo coerencia entre narrrativa e mecanica 
-    - loops de gameplay - ciclos de ação - desafio - feedback - recompensa - repetição
-    - ritmo do jogo - alternancia entre intensidade e calma para manter engajamento
-    - progressao - desbloqueios, habilidades e narrativas que ampliam a experiencia
+    - O design precisa traduzir ideias em sistemas funcionais, mantendo coerência entre narrativa e mecânica
+        - Loops de gameplay: ciclos de ação → desafio → feedback → recompensa → repetição
+        - Ritmo do jogo: alternância entre intensidade e calma para manter engajamento
+        - Progressão: desbloqueios, habilidades e narrativas que ampliam a experiência
+
+3. Level design
+     - organiza espaços, obstaculos e recompensas em um jogo
+     - construit mapas e fases que unam jogabilidade, estetica e progressao, garantindo coesao na experiencia
+
